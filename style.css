@@ -1,0 +1,39 @@
+div {
+  font-family: "Winky Rough", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+
+
+}
+
+
+img {
+  width: 40%;
+  border: 5px solid rgb(50, 10, 107);
+  margin-left: 30%;
+  margin-top: 50px;
+
+}
+
+#back {
+
+  background-color: #78B9B5;
+  padding: 0px;
+  margin-top: 25%;
+}
+h1{
+  margin: 0%;
+  background-color: #0F828C;
+  text-align: center;
+}
+p{
+   margin: 0%;
+  background-color: #320A6B;
+  padding: 20px;
+  text-align: center;
+  color: aliceblue;
+}
+html{
+  background-color: #9929EA;
+}
